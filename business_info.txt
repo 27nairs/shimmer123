@@ -1,0 +1,5 @@
+Name: Phoebe's Flowers
+Roses: 15 dollars per dozen
+Lilies: 10 dollars each
+Hours: 9am to 5pm
+Discount: 20% off just water can
